@@ -1,0 +1,12 @@
+[project]
+name = "nlp-consumer-complaint"
+version = "1.0.0"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "scikit-learn==1.6.1",
+    "joblib",
+    "scipy",
+    "numpy",
+    "pandas",
+    "streamlit"
+]
